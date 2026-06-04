@@ -42,7 +42,7 @@ keywords:              [math,applied math,applications,texas]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  https://github.com/WorrisomePi/WorrisomePi.github.io/blob/596996ba94da711d3a8f2e3d30ca30e063c7fb5a/vector_field_background_cropped.png
+logo:                  /vector_field_background_cropped.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -50,7 +50,7 @@ author:
   email:               daniscoville@tamu.edu
   # Used by `jekyll-seo-tag`:
   twitter:             
-  picture:             ScovilleDSr24-719-Edit.jpg
+  picture:             /ScovilleDSr24-719-Edit.jpg
 
 # Add links to the sidebar.
 menu:
@@ -88,7 +88,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          https://github.com/WorrisomePi/WorrisomePi.github.io/blob/596996ba94da711d3a8f2e3d30ca30e063c7fb5a/vector_field_background_cropped.png
+accent_image:          /vector_field_background_cropped.png
 accent_color:          '#0095FF'
 
 # The string encoding which fonts to fetch from Google Fonts.
@@ -140,7 +140,7 @@ google_analytics:      UA-121214450-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                 photocyte-github-io
+disqus:                 WorrisomePi-github-io
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
