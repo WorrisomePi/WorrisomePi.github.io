@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-   
+   I'm an undergraduate studying applied mathematics at Texas A&M, with interests in numerical modeling, dynamical systems, and applications to the Earth sciences.  
  # This photo will be used in the about section
   picture:
     path:            /ScovilleDSr24-719-Edit_square.jpg
