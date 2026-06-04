@@ -107,7 +107,7 @@ defaults:
   - scope:
       path:            hyde
     values:
-      accent_color:    rgb(38,139,210)
+      accent_color:    rgb(0,58,100)
       accent_image:
         background:    rgb(32,32,32)
         overlay:       false
@@ -296,7 +296,7 @@ plugins:
 
 # Used for Twitter cards
 twitter:
-   username:            photocyte
+   username:            
 
 # Used for Facebook open graph
 # facebook:
@@ -306,10 +306,9 @@ twitter:
 
 # Used on index and about sites
 social:
-   name:                Timothy Fallon
+   name:                Dani Scoville
    links:
-     - https://twitter.com/photocyte
-     - https://github.com/photocyte
+     - https://github.com/WorrisomePi
 
 
 # Other Plugins
