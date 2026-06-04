@@ -49,8 +49,8 @@ author:
   name:                Dani Scoville
   email:               daniscoville@tamu.edu
   # Used by `jekyll-seo-tag`:
-  twitter:             photocyte
-  picture:             /images/avatar.png
+  twitter:             
+  picture:             https://github.com/WorrisomePi/WorrisomePi.github.io/blob/596996ba94da711d3a8f2e3d30ca30e063c7fb5a/ScovilleDSr24-719-Edit.jpg
 
 # Add links to the sidebar.
 menu:
