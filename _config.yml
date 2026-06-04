@@ -42,7 +42,7 @@ keywords:              [math,applied math,applications,texas]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  https://avatars3.githubusercontent.com/u/12517705?s=400&u=b86c907899da6f1ef01c1898a8153cbc46f24c75&v=4
+logo:                  https://github.com/WorrisomePi/WorrisomePi.github.io/blob/596996ba94da711d3a8f2e3d30ca30e063c7fb5a/vector_field_background_cropped.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -88,8 +88,8 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/35701506_1935132846517938_8952421413646499840_n3.jpg
-accent_color:          '#4fb1ba'
+accent_image:          https://github.com/WorrisomePi/WorrisomePi.github.io/blob/596996ba94da711d3a8f2e3d30ca30e063c7fb5a/vector_field_background_cropped.png
+accent_color:          '#0095FF'
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
