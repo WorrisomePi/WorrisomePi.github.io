@@ -57,7 +57,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Research and Presentation Experience
-    url:               /research_and_presentation/
+    url:               /research/
   - title:             CV and Resume
     url:               /cv_and_resume/
   - title:             About
